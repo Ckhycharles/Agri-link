@@ -1,0 +1,10 @@
+# Docker Compose configuration has been removed.
+# For local development, follow the setup instructions in README.md and QUICKSTART.md
+#
+# Requirements:
+# - MySQL 8.0+ running on localhost:3306
+# - Redis 6+ (optional)
+# - Python 3.9+
+# - Dependencies from requirements.txt
+
+
